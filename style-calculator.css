@@ -17,6 +17,7 @@ table{
 .name h1{
 text-align:center;
   color:#333;
+  font-family: helvetica;
 }
 #result{
   height:35px;
