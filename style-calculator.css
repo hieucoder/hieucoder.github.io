@@ -1,0 +1,66 @@
+
+table{
+  margin:10px auto;
+}
+.content{
+  max-width:1000px;
+  margin:0 auto;
+}
+
+.btn{
+  width:70px;
+  height:70px;
+}
+.t1{
+  width:144px;
+}
+@import url(http://fonts.googleapis.com/css?family=Tangerine");
+#result{
+  height:35px;
+  width: 388px;
+  padding:25px;
+  font-size:45px;
+  color:white;
+  background-color:#4c4c4c;
+  font-family: 'Varel Round', serif;
+  border:none;
+  outline:none;
+  border-radius:3px;
+}
+
+.box{
+  width:418px;
+  height:80px;
+  background-color:#eee;
+  border-radius:5px;
+  padding:10px;
+  margin:0 auto;
+}
+.h1{
+  font-family:helvetica;
+  text-align:center;
+}
+.btn{
+  border:0;
+  outline:0;
+  font-size:25px;
+  border-radius:5px;
+}
+#c{
+  background-color: #ea048e;
+  color:white;
+  font-weight:bold;
+  font-size:30px;
+}
+.btn:active{
+  background-color:#938a82;
+  transform:translatey(2px);
+  opacity:0.01px;
+  border:none;
+}
+#row{
+  height:142px;
+}
+#ye, #row, #rcl{
+  background-color:#f5923d;
+}
