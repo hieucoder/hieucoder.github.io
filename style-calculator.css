@@ -16,11 +16,12 @@ table{
 }
 .name{
   margin:0 auto;
-  text-align:center;
+  
 }
-.name h1{
+h1{
   font-family: helvetica;
   color:#aaa;
+  text-align:center;
 }
 #result{
   height:35px;
